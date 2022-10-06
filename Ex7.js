@@ -1,0 +1,8 @@
+var a = 4 + 4;
+var b = 12 - 4;
+var c = 4 * 2;
+var d = 16 / 2;
+console.log(a);
+console.log(b);
+console.log(c);
+console.log(d);
